@@ -1,0 +1,25 @@
+.debug .box-style{
+    height: 50px;
+    background-color: #006cfa;
+    color: white;
+    text-align: center;
+    border: 1px solid white;
+}
+
+.debug .box-style p{
+    vertical-align: middle;
+    position: relative;
+    top: 15px;
+}
+
+.debug .row-container .row-container .box-style{
+    margin: 10px;
+    background-color: #00e165;
+    border: 0;
+    height: 30px;
+    padding-top: 5px;
+}
+
+.debug .container-fluid{
+    margin-bottom: 20px;
+}
